@@ -2,7 +2,6 @@
 
 ![image](https://github.com/phanslien/pia-hanslien-semester-project-2/blob/main/semesterproject.png)
 
-A simple overview of the use/purpose of the project.
 
 ## Description
 
