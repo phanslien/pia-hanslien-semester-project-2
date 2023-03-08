@@ -27,6 +27,7 @@ You can list a the tech stack that you've used over here
 - HTML
 - CSS
 - JavaScript
+- [STRAPI] (http://strapi.io)
 - [Bootstrap](https://getbootstrap.com)
 
 ## Getting Started
@@ -44,19 +45,13 @@ git clone https://github.com/phanslien/pia-hanslien-semester-project-2.git
 
 To run the app, to the following:
 
-```bash
 Use Live Server in the Visual Studio Code environment to open the website in the browser.
-```
 
 ## Contributing
 
-Here you can detail any information you want to provide regarding contributing to the project. For big projects you will usually have a separate `CONTRIBUTING.md` and link to it, but for smaller projects you can simply include instructions here. These instructions can simply detail the process you want a person to take, such as to make sure to open a pull request so code can be reviewed.
+This project is a school project, and wont be used for other than showcase my work from my studies. So will therefore not be updated or worked further on.
 
 ## Contact
-
-This is where you can leave your social links for people to contact you, such as a LinkedIn profile or Twitter link e.g.
-
-[My Twitter page](www.twitter.com)
 
 [LinkedIn](https://www.linkedin.com/in/pia-hanslien-29b045180)
 
