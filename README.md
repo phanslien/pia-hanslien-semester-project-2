@@ -1,6 +1,6 @@
 # Edison Alden Eyewear
 
-![image](https://user-images.githubusercontent.com/52622303/164316813-4b12d99f-aeb7-4069-85cf-e72b3a50ac99.png)
+![image](pia-hanslien-semester-project-2/semesterproject.png)
 
 A simple overview of the use/purpose of the project.
 
@@ -13,12 +13,6 @@ The website is built with HTML, CSS/Bootstrap and vanilla JavaScript. The produc
 There is both an customer- and admin-facing interface. Where administrators can login and add, edit and delete products.
 
 The customers can view and search for products, as well as add(and delete) products to cart.
-
-You can add some bullet points if you'd like to:
-
-- List item 1
-- List item 2
-- List item 3
 
 ## Built With
 
