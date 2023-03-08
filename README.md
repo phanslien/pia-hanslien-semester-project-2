@@ -58,7 +58,7 @@ This is where you can leave your social links for people to contact you, such as
 
 [My Twitter page](www.twitter.com)
 
-[piahanslien](www.linkedin.com)
+[LinkedIn](https://www.linkedin.com/in/pia-hanslien-29b045180)
 
 ## Acknowledgments
 
