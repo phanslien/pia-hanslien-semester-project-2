@@ -6,7 +6,13 @@ A simple overview of the use/purpose of the project.
 
 ## Description
 
-Add a more detailed description of what your project entails and set out to do.
+Edison Alden Eyewear is a e-commerce website which offers stylish eyewear.
+
+The website is built with HTML, CSS/Bootstrap and vanilla JavaScript. The products is fetch by a separate API, and was deployed using heroku - which no longer is in service due to the change of free option.
+
+There is both an customer- and admin-facing interface. Where administrators can login and add, edit and delete products.
+
+The customers can view and search for products, as well as add(and delete) products to cart.
 
 You can add some bullet points if you'd like to:
 
@@ -18,35 +24,28 @@ You can add some bullet points if you'd like to:
 
 You can list a the tech stack that you've used over here
 
-- [React.js](https://reactjs.org/)
+- HTML
+- CSS
+- JavaScript
 - [Bootstrap](https://getbootstrap.com)
 
 ## Getting Started
 
 ### Installing
 
-This is where you list how to get the project started. It typically just includes telling a person to clone the repo and then to install the dependencies e.g.
-
 1. Clone the repo:
 
 ```bash
-git clone git@github.com:NoroffFEU/portfolio-1-example.git
-```
 
-2. Install the dependencies:
-
-```
-npm install
+git clone https://github.com/phanslien/pia-hanslien-semester-project-2.git
 ```
 
 ### Running
 
-Here is where you detail how to run the app. It typically involves the commands you'd need to run to start the project e.g.
-
-To run the app, run the following commands:
+To run the app, to the following:
 
 ```bash
-npm run start
+Use Live Server in the Visual Studio Code environment to open the website in the browser.
 ```
 
 ## Contributing
@@ -59,12 +58,8 @@ This is where you can leave your social links for people to contact you, such as
 
 [My Twitter page](www.twitter.com)
 
-[My LinkedIn page](www.linkedin.com)
-
-## License
-
-You can link to your license file here if you're using one, or mention what license the codebase falls under. If you're unsure then you can simply delete this section.
+[piahanslien](www.linkedin.com)
 
 ## Acknowledgments
 
-This is where you can add any acknowledgements if you'd like, such as to people who have helped you or any code snippets you'd like to mention. You can delete this section if you don't have any acknowledgements to make.
+Products images are taken from https://unsplash.com/
