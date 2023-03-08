@@ -22,12 +22,10 @@ You can add some bullet points if you'd like to:
 
 ## Built With
 
-You can list a the tech stack that you've used over here
-
 - HTML
 - CSS
 - JavaScript
-- [STRAPI] (http://strapi.io)
+- [Strapi](https://strapi.io)
 - [Bootstrap](https://getbootstrap.com)
 
 ## Getting Started
